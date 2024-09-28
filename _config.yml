@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Zheng's Homepage"
+title                    : "Jennie's Homepage"
 title_separator          : "-"
 name                     : &name "Yu Zheng"
 description              : &description "Postdoc at UCI"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu Zheng"
+  name             : "(Jennie) Yu Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at UCI"
   location         : "Orange County, CA"
