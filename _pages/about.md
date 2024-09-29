@@ -14,8 +14,8 @@ Prior to UCI, I obtained my Ph.D. degree in 2024 from Cryptography Lab in the De
 
 News
 ======
-- _[September 2024]_ I joined DSP lab hosted by Prof. Zhou Li at University of California, Irvine!
-- _[June 2024]_ I passed my PhD defense!
+- __[September 2024]__ I joined DSP lab hosted by Prof. Zhou Li at University of California, Irvine!
+- __[June 2024]__ I passed my PhD defense!
 
 
 Experience
