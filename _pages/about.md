@@ -66,7 +66,7 @@ Awards
 - [2023] Summer Research Institute Fellowship of EPFL, Switzerland.
 - [2022] ACM MMSys Best Student Paper Award.
 - [2017] ICCT Best Paper Award.
-- [2016/2015] National Scholarship of China.
+- [2016/2015] National Scholarship of China (Top 0.2\%).
 
 
 
