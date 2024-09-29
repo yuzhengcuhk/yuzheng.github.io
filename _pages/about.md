@@ -25,7 +25,7 @@ Academic Degrees
 
 Working Experience
 ------
-- [Aug-Sep 2024] Research Scholar at The Hong Kong Polytechnic University & Chinese University of Kong Kong.
+- [Aug-Sep 2024] Research Scholar at Hong Kong Polytechnic University & Chinese University of Kong Kong.
 - [May-Sep 2022] Research Intern - Algorithm, Alibaba Group & Ant Group.
 - [Sep-Nov 2021] Research Intern - Privacy, 2012 Labs.
 - [Mar-May 2018] Research Assistant at Chinese University of Kong Kong.
