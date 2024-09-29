@@ -10,14 +10,13 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of Electrical Engineering & Computer Science at University of California, Irvine (UCI) advised by [Prof. Zhou Li](https://faculty.sites.uci.edu/zhouli/). My research interests focus on privacy-preserving systems, secure machine learning, and applied cryptography. If you are interested into my research, welcome to contact me.
 
-Prior to UCI, I obtained my Ph.D. degree in 2024 from Cryptography Lab in the Department of Information Engineering at The Chinese University of Hong Kong (CUHK) supervised by [Prof. Sherman S.M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/index.htm), and became an Interim Researcher co-advised by [Prof. Kai Zhou](https://scholar.google.com/citations?user=J2QAuAUAAAAJ&hl=en) at The Hong Kong Polytechnic University and [Prof. Kehuan Zhang](https://scholar.google.com/citations?user=WJMoKskAAAAJ&hl=en) at CUHK . I obtained my Bachelor's degree (ranking: 1/96) in 2018 in the Department of Communication Engineering at Northeastern University, China advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en). 
+Prior to UCI, I obtained my Ph.D. degree in 2024 from Cryptography Lab in the Department of Information Engineering at The Chinese University of Hong Kong (CUHK) supervised by [Prof. Sherman S.M. Chow](https://staff.ie.cuhk.edu.hk/~smchow/index.htm), and became an Interim Researcher co-advised by [Prof. Kai Zhou](https://scholar.google.com/citations?user=J2QAuAUAAAAJ&hl=en) at The Hong Kong Polytechnic University and [Prof. Kehuan Zhang](https://scholar.google.com/citations?user=WJMoKskAAAAJ&hl=en) at CUHK. I obtained my Bachelor's degree (ranking: 1/96) in 2018 in the Department of Communication Engineering at Northeastern University, China advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en). 
 
 
 News
 ------
 - __[Sep 2024]__ I joined DSP lab hosted by Prof. Zhou Li at University of California, Irvine!
 - __[Jun 2024]__ I passed my PhD defense!
-
 
 Academic Degrees
 ------
@@ -30,6 +29,46 @@ Working Experience
 - [May-Sep 2022] Research Intern at Alibaba Group & Ant Group.
 - [Sep-Nov 2021] Research Intern at 2012 Labs.
 - [Mar-May 2018] Research Assistant at Chinese University of Kong Kong.
+
+Selected Publication
+------
+\# denotes equal contribution.
+
+- Xiangfu Song, **Yu Zheng**, Jianli Bai, Changyu Dong, Zheli Liu, and Ee-Chien Chang. “DISCO: Dynamic Searchable Encryption with Constant State.” ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
+
+- **Yu Zheng**, Wenchao Zhang, Wei Song, Xiuhua Wang, and Chong Fu. “Encrypted Video Search with Single/Multiple Writers.” ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. (Invited Submission)
+
+- Zhiqin Yang, Yonggang Zhang, **Yu Zheng**, Xinmei Tian, Hao Peng, Tongliang Liu, and Bo Han. “FedFed: Feature Distillation against Data Heterogeneity in Federated Learning.” Advances in Neural Information Processing Systems (NeurIPS), 2023.
+
+- **Yu Zheng\#**, Qizhi Zhang\#, Sherman S.M. Chow, Yuxiang Peng, Sijun Tan, Lichun Li, and Shan Yin. “Secure Softmax/Sigmoid for Machine-Learning Computation.” Annual Computer Security Applications Conference (ACSAC), 2023. [Available Badge, Functional Badge, Reproduced Badge] 
+
+- **Yu Zheng**, Wei Song, Minxin Du, Sherman S.M. Chow, Qian Lou, Yongjun Zhao, Xiuhua Wang. “Cryptography-Inspired Federated Learning Variants for GAN and Meta Learning.” International Con- ference on Advanced Data Mining and Applications (ADMA), 2023.
+
+- **Yu Zheng**, Heng Tian, Minxin Du, and Chong Fu. “Encrypted Video Search: Scalable, Modular, and Content-similar.” ACM Multimedia Systems Conference (MMSys), 2022. _(Best Student Paper Award)_
+
+Program Committee
+------
+CCS AE (24’,23’), NDSS AE (24’, also Discussion Lead in 24’), TheWebConf AE (24’), USENIX Security AE (24’), AAAI (25’), AJCAI (23’), EAI ICECI (24’), ICNC (25’).
+
+(24’): Session Chair of AsiaCCS.
+
+Review Service
+------
+Cryptography (Official): AsiaCCS (24’), IEEE TDSC (24’), IEEE TSC (24’), Information Sciences (24’,23’)
+
+Learning (Official): AISTATS (24’), ICLR (24’), ICML (24’), NeurIPS (24’,23’), NCAA (23’), TVCJ (22’), JMANS (23’)
+
+Cryptography (External): AsiaCCS (19’), CRYPTO (19’), ESORICS (19’), ICICS (19’), IEEE S&P (25’), IEEE TIFS (19’), ISC (19’), NDSS (25’), RAID (23’), SecureComm (19’,18’), TheWebConf (23’,20’)
+
+Awards
+------
+- [2024] Conference Travel Award of IEEE SaTML, UToronto, Canada.
+- [2023] Summer Research Institute Fellowship of EPFL, Switzerland.
+- [2022] ACM MMSys Best Student Paper Award.
+- [2017] ICCT Best Paper Award.
+- [2016/2015] National Scholarship of China.
+
+
 
 Misc
 ------
