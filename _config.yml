@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Jennie's Homepage"
 title_separator          : "-"
-name                     : &name "Yu Zheng"
-description              : &description "Postdoc at UCI"
+name                     : &name "(Jennie) Yu Zheng"
+description              : &description "Postdoc at UC, Irvine"
 url                      : https://yuzhengcuhk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "(Jennie) Yu Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc at UCI"
+  bio              : "Postdoc at UC, Irvine"
   location         : "Orange County, CA"
-  employer         : "UCI"
+  employer         : "UC, Irvine"
   uri              : # URL
   email            : "yuzheng404@link.cuhk.edu.hk" 
 
