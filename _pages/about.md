@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Resume](/assets/pdf/yuzheng.pdf) [Google Scholar](https://scholar.google.com/citations?user=fH3uUgYAAAAJ&hl=en)
+[[Resume]](/assets/pdf/yuzheng.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=fH3uUgYAAAAJ&hl=en)
 
 I am a Postdoctoral Researcher in the Department of Electrical Engineering & Computer Science at University of California, Irvine (UCI) advised by [Prof. Zhou Li](https://faculty.sites.uci.edu/zhouli/). My research interests focus on privacy-preserving systems, secure machine learning, and applied cryptography. If you are interested into my research, welcome to contact me.
 
