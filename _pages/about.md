@@ -36,7 +36,7 @@ Selected Publication
 
 - Xiangfu Song, **Yu Zheng**, Jianli Bai, Changyu Dong, Zheli Liu, and Ee-Chien Chang. “DISCO: Dynamic Searchable Encryption with Constant State.” ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2024.
 
-- **Yu Zheng**, Wenchao Zhang, Wei Song, Xiuhua Wang, and Chong Fu. “Encrypted Video Search with Single/Multiple Writers.” ACM Transactions on Multimedia Computing, Communications, and Applications, 2024. (Invited Submission)
+- **Yu Zheng**, Wenchao Zhang, Wei Song, Xiuhua Wang, and Chong Fu. “Encrypted Video Search with Single/Multiple Writers.” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024. (Invited Submission)
 
 - Zhiqin Yang, Yonggang Zhang, **Yu Zheng**, Xinmei Tian, Hao Peng, Tongliang Liu, and Bo Han. “FedFed: Feature Distillation against Data Heterogeneity in Federated Learning.” Advances in Neural Information Processing Systems (NeurIPS), 2023.
 
