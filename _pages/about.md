@@ -42,7 +42,7 @@ Selected Publication
 
 - **Yu Zheng\#**, Qizhi Zhang\#, Sherman S.M. Chow, Yuxiang Peng, Sijun Tan, Lichun Li, and Shan Yin. “Secure Softmax/Sigmoid for Machine-Learning Computation.” Annual Computer Security Applications Conference (ACSAC), 2023. [Available Badge, Functional Badge, Reproduced Badge] 
 
-- **Yu Zheng**, Wei Song, Minxin Du, Sherman S.M. Chow, Qian Lou, Yongjun Zhao, Xiuhua Wang. “Cryptography-Inspired Federated Learning Variants for GAN and Meta Learning.” International Con- ference on Advanced Data Mining and Applications (ADMA), 2023.
+- **Yu Zheng**, Wei Song, Minxin Du, Sherman S.M. Chow, Qian Lou, Yongjun Zhao, Xiuhua Wang. “Cryptography-Inspired Federated Learning Variants for GAN and Meta Learning.” International Conference on Advanced Data Mining and Applications (ADMA), 2023.
 
 - **Yu Zheng**, Heng Tian, Minxin Du, and Chong Fu. “Encrypted Video Search: Scalable, Modular, and Content-similar.” ACM Multimedia Systems Conference (MMSys), 2022. _(Best Student Paper Award)_
 
