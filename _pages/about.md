@@ -27,7 +27,7 @@ Working Experience
 ------
 - __[Aug-Sep 2024]__ Interim Researcher at Hong Kong Polytechnic University & Chinese University of Kong Kong.
 - __[May-Sep 2022]__ Research Intern at Alibaba Group & Ant Group.
-- __[Sep-Nov 2021]__ Research Intern at 2012 Labs.
+- __[Sep-Nov 2020]__ Research Intern at 2012 Labs.
 - __[Mar-May 2018]__ Research Assistant at Chinese University of Kong Kong.
 
 Selected Publication
