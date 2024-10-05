@@ -65,6 +65,7 @@ Awards
 - [2024] Conference Travel Award of IEEE SaTML, UToronto, Canada.
 - [2023] Summer Research Institute Fellowship of EPFL, Switzerland.
 - [2022] ACM MMSys Best Student Paper Award.
+- [2018] Postgraduate Studentship (~5 years) offered by CUHK-IE.
 - [2017] ICCT Best Paper Award.
 - [2016/2015] National Scholarship of China (Top 0.2%).
 
