@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in the Department of Electrical Engineering & Computer Science at University of California, Irvine (UCI) advised by [Prof. Zhou Li](https://faculty.sites.uci.edu/zhouli/). My research interests focus on privacy-preserving systems, secure machine learning, and applied cryptography. If you are interested into my research, welcome to contact me.
 
-Prior to UCI, I obtained my Ph.D. degree in 2024 from in the Department of Information Engineering at Chinese University of Hong Kong (CUHK), and became an Interim Researcher co-advised by [Prof. Kehuan Zhang](https://scholar.google.com/citations?user=WJMoKskAAAAJ&hl=en) (also Thesis Committee Chair) at CUHK and [Prof. Kai Zhou](https://scholar.google.com/citations?user=J2QAuAUAAAAJ&hl=en) at Hong Kong Polytechnic University. I received my Bachelor's degree (ranking: 1/96) in 2018 in the Department of Communication Engineering at Northeastern University, China advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en). In industry, I finished the research internship at Ant Group (previously Alibaba Group) mentored by [Dr. Qizhi Zhang](https://scholar.google.co.jp/citations?user=YaeWXDEAAAAJ&hl=en) and [Dr. Lichun Li](https://dblp.org/pid/16/1282.html).
+Prior to UCI, I obtained my Ph.D. degree in 2024 from the Department of Information Engineering at Chinese University of Hong Kong (CUHK), and became an Interim Researcher co-advised by [Prof. Kehuan Zhang](https://scholar.google.com/citations?user=WJMoKskAAAAJ&hl=en) (also Thesis Committee Chair) at CUHK and [Prof. Kai Zhou](https://scholar.google.com/citations?user=J2QAuAUAAAAJ&hl=en) at Hong Kong Polytechnic University. I received my Bachelor's degree (ranking: 1/96) in 2018 in the Department of Communication Engineering at Northeastern University, China advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en). In industry, I finished the research internship at Ant Group (previously Alibaba Group) mentored by [Dr. Qizhi Zhang](https://scholar.google.co.jp/citations?user=YaeWXDEAAAAJ&hl=en) and [Dr. Lichun Li](https://dblp.org/pid/16/1282.html).
 
 
 News
@@ -65,7 +65,7 @@ Awards
 - [2024] Conference Travel Award of IEEE SaTML, UToronto, Canada.
 - [2023] Summer Research Institute Fellowship of EPFL, Switzerland.
 - [2022] ACM MMSys Best Student Paper Award.
-- [2018] Postgraduate Studentship (~5 years) offered by CUHK-IE.
+- [2018] Postgraduate Studentship (~ 5 Years) offered by CUHK-IE.
 - [2017] ICCT Best Paper Award.
 - [2016/2015] National Scholarship of China (Top 0.2%).
 
